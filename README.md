@@ -1,2 +1,2 @@
 # pig-game
-Dice game. Reach 50 pts rolling the dice to win. (vanilla js)
+Dice game. Roll the dice and reach 50 pts to win. (vanilla js)
